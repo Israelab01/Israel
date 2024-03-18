@@ -1,0 +1,70 @@
+*head{
+text-aling: center;
+}
+
+body {
+text-aling: center;
+}
+
+.logomercedes {
+display: flex;
+}
+
+
+.logomercedes img {
+    width: 150px;
+    height: auto;
+}
+/* styles.css */
+
+/* Centra el texto en el cuerpo de la página *
+body {
+    text-align: center;
+}
+
+/* Estilo para el contenedor del logotipo de Mercedes-Benz */
+.logomercedes {
+    /* Utiliza flexbox para alinear horizontalmente los elementos secundarios */
+    display: flex;
+    
+    /* Centra los elementos secundarios horizontalmente en el contenedor */
+    justify-content: center;
+    
+    /* Añade un margen en la parte inferior del contenedor (puedes ajustar según tus preferencias) */
+    margin-bottom: 20px;
+}
+
+/* Estilo para la imagen del logotipo de Mercedes-Benz dentro del contenedor */
+.logomercedes img {
+    /* Establece el ancho de la imagen (puedes ajustar según tus preferencias) */
+    width: 150px;
+    
+    /* Mantiene la proporción original de la imagen */
+    height: auto;
+}
+
+
+ul {
+    /* Quita los estilos predeterminados de la lista (como el sangrado es decir el puntog) */
+    list-style: none;
+}
+
+
+ul li, ol li{
+
+text-aling: center;
+
+}
+
+.bmw-section{
+
+text-aling: left;
+
+}
+
+.mercedes-section{
+
+text-aling: right;
+
+}
+
