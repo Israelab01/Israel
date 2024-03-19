@@ -1,6 +1,6 @@
 Ejemplo de Seccion
 
-#############TITULO
+#####TITULO
 
 ##Primera Seccion
 Bienvenido al Chiquito Ipsum, el generador de texto de relleno para tus diseños de antes de los dolores.
