@@ -24,4 +24,14 @@ __negrita__
 \*Esto es una frase con dos asteriscos\*
 
 > Esto es una cita
-Ejemplo de lista 
+Ejemplo de lista
+🥃
+:+1:
+-[x]👻
+
+Ejemplo de bloque de codigo
+
+```bash
+npm install
+````
+
